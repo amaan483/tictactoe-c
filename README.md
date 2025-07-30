@@ -14,24 +14,35 @@ This is a console based TicTacToe game written in c language. The game includes 
 4. Infinite loop and clean exit logic
 
 ## How to run and compile
-# use GCC :
+### use GCC :
 gcc tictactoe.c
+
 ./a.exe
 
-#Output
+## Output
 
 Select difficulty level :
+
 1. Easy mode
 2. Difficult mode
 Enter your choice : 1
+
 Score - Player X : 0, Computer : 0, Draws : 0
+
 Tic-Tac-Toe
 
  X | O | X
+ 
 ---+---+---
+
  X | O | O
+ 
 ---+---+---
+
  O | X | X
+ 
 It's a draw!!
+
 Do you want to play again? (1 for yes, 0 for no) : 0
+
 Bye Bye, Thanks for playing.
